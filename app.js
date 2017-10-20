@@ -40,5 +40,3 @@ let server=http.createServer((req,res)=>{
 server.listen(80,()=>{
     console.log('服务器启动了');
 });
-
-

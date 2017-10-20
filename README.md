@@ -4,5 +4,5 @@ Node.JS个人学习笔记,我是刚刚起步的小白,请多多指教,写出来�
 ####   正文
 
 * [Node.js学习笔记(二)](https://github.com/yshunda/Node.js/issues/2) 最近提交于:2017/10/20
-* [Node.js学习笔记(一)](https://github.com/yshunda/Node.js/issues/1) 最近提交于:2017/10/20
+* [Node.js学习笔记(一)之Node,js概述及其开发对象类型](https://github.com/yshunda/Node.js/issues/1) 最近提交于:2017/10/20
 
